@@ -1,0 +1,15 @@
+D:\WorkSpace\C#\QueryTool\DataImport\DataImport\bin\Release\DataImport.exe.config
+D:\WorkSpace\C#\QueryTool\DataImport\DataImport\obj\Release\DataImport.exe
+D:\WorkSpace\C#\QueryTool\DataImport\DataImport\obj\Release\DataImport.pdb
+D:\WorkSpace\C#\QueryTool\DataImport\DataImport\bin\Release\DataImport.exe
+D:\WorkSpace\C#\QueryTool\DataImport\DataImport\bin\Release\DataImport.pdb
+D:\WorkSpace\C#\QueryTool\DataImport\DataImport\bin\Release\MySql.Data.dll
+D:\WorkSpace\C#\QueryTool\DataImport\DataImport\bin\Release\EntityFramework.xml
+D:\WorkSpace\C#\QueryTool\DataImport\DataImport\bin\Release\EntityFramework.SqlServer.xml
+D:\WorkSpace\C#\QueryTool\DataImport\DataImport\bin\Release\zh-Hans\EntityFramework.resources.dll
+D:\WorkSpace\C#\QueryTool\DataImport\DataImport\bin\Release\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\WorkSpace\C#\QueryTool\DataImport\DataImport\obj\Release\PolesQueryTool.csprojResolveAssemblyReference.cache
+D:\WorkSpace\C#\QueryTool\DataImport\DataImport\obj\Release\DataImport.FrmDBConfig.resources
+D:\WorkSpace\C#\QueryTool\DataImport\DataImport\obj\Release\DataImport.FrmMain.resources
+D:\WorkSpace\C#\QueryTool\DataImport\DataImport\obj\Release\DataImport.Properties.Resources.resources
+D:\WorkSpace\C#\QueryTool\DataImport\DataImport\obj\Release\PolesQueryTool.csproj.GenerateResource.Cache
